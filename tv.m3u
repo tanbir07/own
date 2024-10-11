@@ -1,3 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT5X8q9NK9UnunN0AMfuIhEcEyPrGIZ_ujxZRfIhyh358yE2eJoNkgX0po&s=10" group-title="",DD National
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Ddnational/default/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT5X8q9NK9UnunN0AMfuIhEcEyPrGIZ_ujxZRfIhyh358yE2eJoNkgX0po&s=10" group-title="",BD🆚IND Server-1
+https://bdiptv24.com/Toffeelive/live.php?id=9b35bbb302b9&e=.m3u8
+#EXTINF:-2 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT5X8q9NK9UnunN0AMfuIhEcEyPrGIZ_ujxZRfIhyh358yE2eJoNkgX0po&s=10" group-title="",BD 🆚IND Server-2
+https://fifabd.xyz/TTT/play.m3u8?id=2&q=720
+#EXTINF:-3 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk4bzE5go2xGd_3FzBDII_hQ-iKosGNQ7JOA&s" group-title="",ICC WOMEN T20 WC
+http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8
